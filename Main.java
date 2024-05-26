@@ -6,5 +6,8 @@ class Main{
     System.out.println("Hello DevOps");
     
     System.out.println("=============================I LOVE JAVA.=========");
+
+    Student student = new Student();
+    student.sayHello();
   }
 }

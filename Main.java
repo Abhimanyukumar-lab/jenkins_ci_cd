@@ -7,6 +7,8 @@ class Main{
     
     System.out.println("=============================I LOVE JAVA.=========");
 
+    System.out.println("ci/cd");
+
     Student student = new Student();
     student.sayHello();
   }
